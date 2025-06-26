@@ -40,9 +40,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
- npx prisma migrate dev --name init  -> to init migration 
- npx prisma migrate reset -> reset migration
- npx prisma studio  -> to run prisma studio 
+ - npx prisma migrate dev --name init  -> to init migration 
+ - npx prisma migrate reset -> reset migration
+ - npx prisma studio  -> to run prisma studio 
 
 
 --------
